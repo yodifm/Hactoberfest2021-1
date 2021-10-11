@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class random_password_generator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
